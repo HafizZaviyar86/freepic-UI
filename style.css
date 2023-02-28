@@ -238,12 +238,15 @@
 }
 
 
-.cards2 h1  {
-    padding-top: 10px;
-    margin: 100px 30px;
+.cards2 h3  {
+    
+    margin-top: 150px;
+    margin-left: 30px;
 }
 .cards2 p {
     padding: 0px 30px;
+    color: gray;
+    font-size: 18px;
 }
 .second-card{
     height: 400px;
@@ -274,4 +277,177 @@
     height: 400px;
     width: 300px;
     border-radius: 25px;
+}
+
+
+#hading{
+    height: 300px;
+    width: 100%;
+    
+}
+#hading h2{
+    margin: 15px 350px;
+    
+}
+#hading b{
+    color: #1273eb;
+    
+}
+#hading p{
+    margin: 15px 300px;
+    font-size: 18px;
+    color: gray;
+    
+}
+.download{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(232, 232, 236);
+    padding: 50px 20px;
+}
+.download-one{
+    height: 450px;
+    width: 550px;
+    margin-left: 50px;
+    
+}
+.download-two{
+    height: 450px;
+    width: 500px;
+    
+    margin-right: 80px;
+}
+.download-two img{
+    height: 450px;
+    width: 600px;
+    padding-right: 100px;
+    
+}
+
+.download-one{
+    padding: 50px 50px;
+    
+}
+.download-star{
+    display: flex;
+    gap: 10px;
+}
+#star-logo{
+    color: #1273eb;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(89, 143, 151);
+    border-radius: 10px;
+    padding: 17px 17px;
+    margin: 10px 0px;
+}
+#like-logo{
+    color: #1273eb;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(89, 143, 151);
+    border-radius: 10px;
+    padding: 17px 17px;
+    margin: 10px 0px;
+}
+#serch-logo{
+    color: #1273eb;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(89, 143, 151);
+    border-radius: 10px;
+    padding: 17px 17px;
+    margin: 10px 0px;
+}
+#arrows-logo{
+    color: #1273eb;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(89, 143, 151);
+    border-radius: 10px;
+    padding: 17px 17px;
+    margin: 10px 0px;
+}
+
+
+
+.three-d{
+    background-color: #DA6A3A;
+    height: 400px;
+    width: 100%;
+    margin: 60px 0px;
+    display: flex;
+    
+    
+}
+.peragraph{
+    margin: 90px 80px;
+    padding: 20px 0px;
+    color: white;
+    font-size: 20px;
+    
+    width: 1000px;
+    height: 250px;
+}
+
+.peragraph h2{
+
+}
+
+#btn-cellection{
+margin: 30px 20px;
+width: 150px;
+font-weight:bold ;
+}
+
+
+
+.right-image-picture{
+     margin-right: 0px;
+}
+.right-image-picture img{
+       width: 500px;
+       height: 400px;
+       
+}
+
+
+.three-creator{
+    background: linear-gradient(90deg, rgba(146,205,250,0.4) 0%, rgba(199,235,255,0.4) 100%);
+    height: 300px;
+    width: 100%;
+    margin: 60px 0px;
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+.peragraph-two{
+    margin: 50px 80px;
+    padding: -20px 0px;
+    color: rgb(226, 225, 225);
+    font-size: 20px;
+    
+    width: 900px;
+    height: 250px;
+}
+.peragraph-two h2{
+    color: rgb(87, 126, 145);
+}
+.peragraph-two b{
+    color: #1273eb;
+}
+.peragraph-two p{
+    color: rgb(87, 126, 145);
+}
+
+.create-image-picture{
+    margin-right: 0px;
+}
+.create-image-picture img{
+      width: 400px;
+      height: 350px;
+      
 }
