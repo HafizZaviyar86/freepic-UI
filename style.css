@@ -1,0 +1,277 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navebar-one1 {
+    background: rgb(0,121,162);
+    background: linear-gradient(180deg, rgba(0,121,162,1) 63%, rgba(0,180,205,1) 99%);
+}
+#Fonts{
+    font-size: 14px;
+}
+
+.logo1{
+    margin: 0px 0px;
+    padding: 5px 40px;
+    
+    
+}
+.logo1 img{
+   height: 60px;
+   width: 130px;
+}
+.d-flex .nav-item a{
+    color: black;
+    font-size: 13px;
+    padding-right: 15px;
+    
+}
+#btn-signin{
+    border: 1px solid white;
+    margin-right: 60px;
+    margin-top: 5px;
+    font-size: 13px;
+    height: 30px;
+    font-weight: bold;
+    
+}
+.container-two{
+    background: rgb(0,121,162);
+    background: linear-gradient(180deg, rgba(0,121,162,1) 63%, rgba(0,180,205,1) 99%);
+    height: 550px;
+    width: 100%;
+}
+.text-line-1{
+     text-align: center;
+     padding: 0px 0;
+     padding-top: 80px;
+     font-size: 30px;
+     font-weight: bold;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-line-2{
+     text-align: center;
+     padding: 10px 5;
+     font-size: 23px;
+     font-weight: lighter;
+     color: white;
+}
+.serch{
+      
+    margin: 0px 320px;
+    height: 56px;
+    width: 734px;
+    display: flex;
+    background-color: white;
+}
+#btn-serch1 {
+    color: gray;
+    border: none;
+    width: 150px;
+
+}
+#btn-serch1 a {
+    color: gray;
+    border: none;
+    width: 150px;
+    padding: 15px 20px;
+
+}
+.picture-caption{
+    padding: 40px 0px;
+}
+.picture{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+.picture-one{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-one img{
+     height: 110px;
+     width: 110px;
+     border-radius: 60px;
+     
+}
+
+.picture-two{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-two img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+}
+.picture-three{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-three img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+    
+}
+.picture-four{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-four img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+    
+}
+.picture-five{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-five img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+    
+}
+.picture-six{
+    border: 5px solid gray;
+    border-radius: 60px;   
+    padding: 3px 3px;
+}
+.picture-six img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+    
+}
+.picture-seven{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-seven img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+    
+}
+.picture-eight{
+    border: 5px solid gray;
+    border-radius: 60px;
+    padding: 3px 3px;
+}
+.picture-eight img{
+    height: 110px;
+    width: 110px;
+    border-radius: 60px;
+
+}
+
+.caption{
+    display: flex;
+    justify-content: space-around;
+    height: 5px;
+    margin-bottom: 100px;
+    background-color: aliceblue;
+}
+
+
+.creat-account{
+    height: 80px;
+    width: 100%;
+    background-color: aquamarine;
+    
+}
+.creat-account p{
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 20px 300px;
+    
+    font-weight: bold;
+}
+#sign-up-free{
+    height: 40px;
+    width: 170px;
+    margin: 0px 30px;
+    font-weight: bold;
+}
+
+
+.hading-line{
+    
+    height: 120px;
+    width: 100%;
+    padding: 30px 350px;
+}
+.hading-line h3{
+
+    padding: 0px 50px;
+}
+#color-body{
+    color: #1273eb;
+    font-family: proxcima 'Courier New', Courier, monospace;
+}
+#pera{
+       color: gray;
+
+}
+.cards{
+    background-color: blueviolet;
+    height: 500px;
+    padding: 30px 20px;
+}
+.iner-cards{
+
+}
+#card-1 img{
+    height: 200px;
+    width: 250px;
+}
+
+
+.cards2 h1  {
+    padding-top: 10px;
+    margin: 100px 30px;
+}
+.cards2 p {
+    padding: 0px 30px;
+}
+.second-card{
+    height: 400px;
+    width: 100%;
+    
+    margin: 60px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+#one img{
+    height: 400px;
+    width: 300px;
+    border-radius: 25px;
+    
+}
+
+#two img{
+    height: 400px;
+    width: 300px;
+    border-radius: 25px;
+}
+#three img{
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+}
+#four img{
+    height: 400px;
+    width: 300px;
+    border-radius: 25px;
+}
