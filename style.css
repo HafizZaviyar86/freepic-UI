@@ -225,9 +225,8 @@
 
 }
 .cards{
-    height: 490px;
+    height: 450px;
     width: 100%;
-    background-color: rgb(191, 195, 195);
     display: flex;
     justify-content: space-around;
     padding: 15px 0px;
@@ -241,6 +240,59 @@
     background-size: cover;
     border-radius: 15px 0px 0px 0px;
     
+}
+#joker{
+    margin: 430px 30px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#mask{
+    margin: 190px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#feather{
+    margin: 190px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#ribin{
+    margin: 200px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#disco{
+    margin: 200px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#trophy{
+    margin: 210px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#eight{
+    margin: 210px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#bear{
+    margin: 210px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#tree{
+    margin: 210px 20px;
+    font-size: 20px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .cards-two{
     
@@ -294,8 +346,39 @@
 .cards-two-2{
     height: 300px;
     width: 100%;
-    background-color: #DA6A3A;
+
+    display: flex;
+    justify-content: space-around;
+}
+.card-one1{
+    height: 250px;
+    width: 310px;
     
+    background-image: url(./images/trophy.jpg);
+    background-size: cover;
+    border-radius: 0px 0px 0px 15px;
+}
+.card-two2{
+    height: 250px;
+    width: 310px;
+    
+    background-image: url(./images/eight.jpg);
+    background-size: cover;
+}
+.card-three3{
+    height: 250px;
+    width: 310px;
+    
+    background-image: url(./images/WhatsApp\ Image\ 2023-02-27\ at\ 1.50.08\ PM.jpeg);
+    background-size: cover;
+}
+.card-four4{
+    height: 250px;
+    width: 310px;
+    
+    background-image: url(./images/2nd.jpeg);
+    background-size: cover;
+    border-radius: 0px 0px 15px 0px;
 }
 .second-card{
     height: 400px;
@@ -499,4 +582,9 @@ font-weight:bold ;
       width: 400px;
       height: 350px;
       
+}
+
+
+.fotter{
+    
 }
