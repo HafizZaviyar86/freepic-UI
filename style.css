@@ -181,7 +181,7 @@
     justify-content: space-around;
     height: 5px;
     margin-bottom: 100px;
-    background-color: aliceblue;
+    
 }
 
 
@@ -210,7 +210,7 @@
     
     height: 120px;
     width: 100%;
-    padding: 30px 350px;
+    padding: 50px 350px;
 }
 .hading-line h3{
 
@@ -225,34 +225,83 @@
 
 }
 .cards{
-    background-color: blueviolet;
-    height: 500px;
-    padding: 30px 20px;
+    height: 490px;
+    width: 100%;
+    background-color: rgb(191, 195, 195);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+    margin: 50px 0px;
 }
-.iner-cards{
-
-}
-#card-1 img{
-    height: 200px;
-    width: 250px;
-}
-
-
-.cards2 h3  {
+.cards-one{
     
-    margin-top: 150px;
-    margin-left: 30px;
+    height: 470px;
+    width: 48%;
+    background-image: url(./images/joker.jpg);
+    background-size: cover;
+    border-radius: 15px 0px 0px 0px;
+    
 }
-.cards2 p {
-    padding: 0px 30px;
-    color: gray;
-    font-size: 18px;
+.cards-two{
+    
+    height: 470px;
+    width: 48%;
+   
+}
+.box-one{
+    height: 230px;
+    width: 645px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.box-1-1{
+    height: 220px;
+    width: 310px;
+    
+    background-image: url(./images/mask.jpg);
+    background-size: cover;
+    
+}
+.box-1-2{
+    height: 220px;
+    width: 310px;
+    border-radius: 0px 15px 0px 0px;
+    background-image: url(./images/par.jpg);
+    background-size: cover;
+}
+.box-two{
+    height: 220px;
+    width: 645px;
+    margin: 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.box-two-1{
+    height: 235px;
+    width: 310px;
+    
+    background-image: url(./images/ribin.jpg);
+    background-size: cover;
+}
+.box-two-2{
+    height: 235px;
+    width: 310px;
+    
+    background-image: url(./images/disco.jpg);
+    background-size: cover;
+}
+.cards-two-2{
+    height: 300px;
+    width: 100%;
+    background-color: #DA6A3A;
+    
 }
 .second-card{
     height: 400px;
     width: 100%;
     
-    margin: 60px 0px;
+    margin: 100px 0px;
     display: flex;
     justify-content: space-around;
 }
