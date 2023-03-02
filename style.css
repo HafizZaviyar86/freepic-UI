@@ -585,6 +585,125 @@ font-weight:bold ;
 }
 
 
+/* .fotter{
+    height: 500px;
+    width: 100%;
+    background-color: #1d262d;
+} */
 .fotter{
+    height: 500px;
+    width: 100%;
+    background-color: #1d262d;
+    display: flex;
+    gap: 150px;
+    padding: 80px 0px;
+    
+    
+}
+.list-one1 h6{
+    color: white;
+}
+.list-one1 ul a{
+     color: #869fb2;
+}
+.list-one1 a {
+    text-decoration: none;
+    list-style: none;
+}
+.list-one1 a :hover{
+    color: white;
+}
+.list-two2 h6{
+    color: white;
+}
+.list-two2 ul a{
+     color: #869fb2;
+}
+.list-two2 a {
+    text-decoration: none;
+    list-style: none;
+}
+.list-two2 a :hover{
+    color: white;
+}
+.list-three3 h6{
+    color: white;
+}
+.list-three3 ul a{
+     color: #869fb2;
+}
+.list-three3 a {
+    text-decoration: none;
+    list-style: none;
+}
+.list-three3 a :hover{
+    color: white;
+}
+.list-four4 h6{
+    color: white;
+}
+.list-four4 ul a{
+     color: #869fb2;
+}
+.list-four4 a {
+    text-decoration: none;
+    list-style: none;
+}
+.list-four4 a :hover{
+    color: white;
+}
+.social-media{
+    color: white;
+    text-align: start;
+    
+}
+.social-media p{
+    font-size: 14px;
+    color: #869fb2;
+}
+#footer-btn{
+    width: 120px;
+    height: 50px;
+    font-weight: bold;
+
+}
+.logos1{
+    display: flex;
+    gap: 10px;
+}
+
+.facebook{
+    height: 30px;
+    width: 30px;
+    background-image: url(./logos/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail-removebg-preview.png);
+    background-size: cover;
+}
+.tewwter{
+    height: 30px;
+    width: 30px;
+    background-image: url(./logos/png-clipart-twitter-logo-blue-sky-wing-beak-font-twitter-blue-social-media-removebg-preview.png);
+    background-size: cover;
+}
+.pintrest{
+    height: 30px;
+    width: 30px;
+    background-image: url(./logos/pinterest-logo-icon-red-social-media-element-vector-white-background-ai-illustrations-139049987-removebg-preview.png);
+    background-size: cover;
+}
+.instagram{
+    height: 30px;
+    width: 30px;
+    background-image: url(./logos/pngtree-instagram-icon-png-image_6315974.png);
+    background-size: cover;
+}
+.youtube{
+    height: 30px;
+    width: 30px;
+    background-image: url(./logos/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail-removebg-preview.png);
+    background-size: cover;
+}
+
+.line1{
+    
     
 }
